@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pic Search !</string>
+    <string name="go">Go !</string>
+    <string name="clear">Clear</string>
+    <string name="website">Website</string>
+    <string name="textview">TextView</string>
+    <string name="imageloading">Imageloading</string>
+    <string name="flicker">Flicker</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="unsplashed">Unsplashed</string>
+    <string name="mobile_no">Mobile No:</string>
+    <string name="message">Message:</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="email">Email</string>
+    <string name="send_email">send email</string>
+    <string name="store_file">Store File</string>
+    <string name="refresh">Refresh</string>
+</resources>
